@@ -52,13 +52,10 @@ The main goal of this project is to uncover actionable insights from the data to
 
 Contributions are welcome! Feel free to fork this repository and submit pull requests.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact
 
-For any inquiries or further information, feel free to reach out to me at yash.shukla@example.com.
+For any inquiries or further information, feel free to reach out to me at yashshukla2912003@gmail.com
 
 ---
 
