@@ -29,14 +29,7 @@ The main goal of this project is to uncover actionable insights from the data to
 
 ## 📈 Visualizations
 
-![Sales vs Orders](link_to_image)
-*Comparison of sales and orders across different months.*
-
-![Gender-based Sales](link_to_image)
-*Sales distribution between men and women.*
-
-![Top 5 States](link_to_image)
-*Top 5 states contributing to overall sales.*
+https://github.com/yash29sh/Excel_Store_Data_Analysis/blob/main/Excel_Dashboard.png
 
 ## 💡 Recommendations
 
